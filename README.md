@@ -11,25 +11,18 @@
 
 ## Langues and Frameworks
 
-- JavaScript, TypeScript, `Next.js`, `React`, `Redux`, `Redux-Saga`
+- JavaScript, TypeScript, `Next.js`, `React`, `Redux`, `Redux-Saga`, `jest`
 - CSS, `styled-components`
 - WebGL, GLSL, `three.js`
-- Docker
-- Game engine, `Unity3D`, `CocosCreator`
 - C/C++ `OpenCV`, `OpenGL`, `OpenMesh`, `CUDA`
 - Python `PyTorch`
 
-<!--
-**tsengyushiang/tsengyushiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools
 
-Here are some ideas to get you started:
+- Version Control, `Git`
+- CI/CD, `Github workflow`, `GitLab pipeline`
+- Docker, `Sonarqube`
+- Game engine, `Unity3D`, `CocosCreator`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![tsengyushiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsengyushiang&show_icons=true&theme=transparent)
