@@ -19,10 +19,11 @@
 
 ## Tools
 
+- Game engine, `Unity3D`, `CocosCreator`
 - Version Control, `Git`
 - CI/CD, `Github workflow`, `GitLab pipeline`
-- Docker, `Sonarqube`
-- Game engine, `Unity3D`, `CocosCreator`
-
+- Docker
+- Sonarqube
+  
 ---
 ![tsengyushiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsengyushiang&show_icons=true&theme=transparent)
