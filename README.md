@@ -21,7 +21,7 @@
 
 - Game engine, `Unity3D`, `CocosCreator`
 - Version Control, `Git`
-- CI/CD, `Github workflow`, `GitLab pipeline`
+- CI/CD, `Github workflow`, `GitLab pipeline`, `vercel`
 - Docker
 - Sonarqube
   
