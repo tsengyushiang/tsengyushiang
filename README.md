@@ -1,4 +1,12 @@
-## Frontend Projects
+## About Me
+
+- I have experience in E-Signing platforms and a 3D online roomtour system.
+- I have a master's degree in Computer Science and Information Engineering, with a focus on Computer Graphics.
+- I find joy in working on side projects, and you can discover some of them in the next section.
+
+![](https://github-readme-stats.vercel.app/api?username=tsengyushiang&count_private=true&show_icons=true)
+
+## Side Projects
 
 - [Panorama layout editor for creating 3D mesh from scratch.](https://pano-to-mesh.vercel.app/)
 - [Editor of shareable slides with markdown.](https://markdown-slides-editor.vercel.app/)
@@ -24,6 +32,3 @@
 - CI/CD, `Github workflow`, `GitLab pipeline`, `vercel`
 - Docker
 - Sonarqube
-  
----
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=tsengyushiang&count_private=true&show_icons=true"/></a>
