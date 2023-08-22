@@ -1,6 +1,6 @@
 ## About Me
 
-- I have experience in E-Signing platforms and a 3D online roomtour system.
+- I have experience in E-Signature platforms and a 3D online roomtour system.
 - I have a master's degree in Computer Science and Information Engineering, with a focus on Computer Graphics.
 - I find joy in working on side projects, and you can discover some of them in the next section.
 
