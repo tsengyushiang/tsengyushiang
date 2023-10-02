@@ -8,7 +8,7 @@
 
 ### Frontend
 
-- [Panorama layout editor for creating 3D mesh from scratch.](https://pano-to-mesh.vercel.app/editor#eNpdkE9rwzAMxb-Lz8aWHP-Rcyyjt7WHwqCUENKsST0yJ6TptjL23ecUtrDp8EPiPaSHPlnT9f24ZzlwVp9CF2KbBpaJDBlnXXXrr5N6YPnhAALt38o4CEMuA1xY8GTUoAEdGYdazTSz0VtjgfQP70arwapZTY1CXHhXvXP23xYLhhTgL4uCs6GK_Vi9Vin2eZqGSy5ldUHRTPVzFPE0yTclX4ZWAkryEkg6kggA5bpE8kCOyJXb1dhlDaLbh3rwerc6r98fbx9P7XFjNk19FGkDW25tx9CGmN4CHEUKVnx9A-oPVjs)
+- [Panorama layout editor for creating 3D mesh from scratch.](https://pano-to-mesh.vercel.app/editors/layout2d)
 - [Editor of shareable slides with markdown.](https://markdown-slides-editor.vercel.app/)
 - [Image eraser with webgl.](https://image-eraser.vercel.app/)
 - [Video background removal with threejs.](https://codesandbox.io/s/threejs-image-processing-forked-wwnc3o?file=/index.html)
