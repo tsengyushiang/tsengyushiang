@@ -15,9 +15,10 @@
 - [RWD webpage with spotify music api.](https://spotify-kappa-three.vercel.app/)
 - [Nextjs to-do list.](https://todolist-api-taupe.vercel.app/)
 
-### Image Processing
+### Backend
 
 - [Image grid from files.](https://github.com/yushiang-demo/node-canvas-image-grid)
+- [DuLa-Net Api server.](https://github.com/yushiang-demo/DuLa-Net)
 
 > Source code can be found on [yushiang-demo](https://github.com/orgs/yushiang-demo/repositories).
 
@@ -27,7 +28,7 @@
 - CSS, `styled-components`
 - WebGL, GLSL, `three.js`
 - C/C++ `OpenCV`, `OpenGL`, `OpenMesh`, `CUDA`
-- Python `PyTorch`
+- Python `PyTorch`, `Flask-RESTx`
 
 ## Tools
 
