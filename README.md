@@ -28,12 +28,14 @@
 - CSS, `styled-components`
 - WebGL, GLSL, `three.js`
 - C/C++ `OpenCV`, `OpenGL`, `OpenMesh`, `CUDA`
-- Python `PyTorch`, `Flask-RESTx`
+- Python `PyTorch`, `Flask-RESTx`, `celery`
 
 ## Tools
 
 - Game engine, `Unity3D`, `CocosCreator`
 - Version Control, `Git`
 - CI/CD, `Github workflow`, `GitLab pipeline`, `vercel`
-- Docker
+- Docker, `docker-compose`
+- Database, `Mongo`
 - Sonarqube
+- Nginx
