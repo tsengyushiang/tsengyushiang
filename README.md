@@ -17,7 +17,7 @@
 
 ### Backend
 
-- [DuLa-Net Webapp.](https://github.com/yushiang-demo/dula-net-webapp)
+- [DuLa-Net Web App.](https://github.com/yushiang-demo/dula-net-webapp)
 - [DuLa-Net Worker.](https://github.com/yushiang-demo/dula-net-worker)
 - [Image grid from files.](https://github.com/yushiang-demo/node-canvas-image-grid)
 
