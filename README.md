@@ -17,8 +17,7 @@
 
 ### Backend
 
-- [DuLa-Net Web App.](https://github.com/yushiang-demo/dula-net-webapp)
-- [DuLa-Net Worker.](https://github.com/yushiang-demo/dula-net-worker)
+- DuLa-Net [api server](https://github.com/yushiang-demo/dula-net-server) and [worker](https://github.com/yushiang-demo/dula-net-worker)
 - [Image grid from files.](https://github.com/yushiang-demo/node-canvas-image-grid)
 
 > Source code can be found on [yushiang-demo](https://github.com/orgs/yushiang-demo/repositories).
