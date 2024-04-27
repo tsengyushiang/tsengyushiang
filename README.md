@@ -14,7 +14,7 @@
 - [Video background removal with threejs.](https://codesandbox.io/s/threejs-image-processing-forked-wwnc3o?file=/index.html)
 - [RWD webpage with spotify music api.](https://spotify-kappa-three.vercel.app/)
 - [Nextjs to-do list.](https://todolist-api-taupe.vercel.app/)
-- [Group drag and drop by hierarchical transformations](https://react-rnd-group.vercel.app/)
+- [Resizable and draggable group by hierarchical transformations](https://react-rnd-group.vercel.app/)
 
 ### Backend
 
