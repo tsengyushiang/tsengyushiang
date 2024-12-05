@@ -1,11 +1,11 @@
 ## About Me
 
-- I have experience working with:
-  - Wi-Fi Management Platform
-  - E-Signature Platform
-  - Web-Based Room Tour and Virtual Exhibition Venue
-- I have a master's degree in Computer Science and Information Engineering, with a focus on Computer Graphics.
-- I find joy in working on side projects, and you can discover some of them in the next section.
+- Work experience with:
+  - Wi-Fi Management Platforms
+  - E-Signature Platforms
+  - Web-Based Room Tours and Virtual Exhibition Venues
+- Master's degree in Computer Science and Information Engineering, specializing in Computer Graphics.
+- Passion for side projects, with some available in the next section.
 
 ## Side Projects
 
