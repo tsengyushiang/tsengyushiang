@@ -28,7 +28,11 @@
 - DuLa-Net [api server](https://github.com/tsengyushiang/dula-net-server) and [worker](https://github.com/tsengyushiang/dula-net-worker)
 - [Image grid from files.](https://github.com/tsengyushiang/node-canvas-image-grid)
 
-## Langues and Frameworks
+## Technical Skills
+
+> notes available at: https://tsengyushiang.github.io/notes/
+
+### Langues and Frameworks
 
 - JavaScript, TypeScript, `Next.js`, `React`, `Redux`, `Redux-Saga`, `jest`
 - CSS, `styled-components`
@@ -36,7 +40,7 @@
 - C/C++ `OpenCV`, `OpenGL`, `OpenMesh`, `CUDA`
 - Python `PyTorch`, `Flask-RESTx`, `celery`
 
-## Tools
+### Tools
 
 - Frontend `storybook`
 - API mocking `msw`
