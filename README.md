@@ -1,4 +1,4 @@
-<img width="267" height="53" alt="image" src="https://github.com/user-attachments/assets/d08e18ef-b8f6-4c11-9f6e-37b3ddedfd64" />## About Me
+## About Me
 
 - Work experience with:
   - Wi-Fi Management Platforms
