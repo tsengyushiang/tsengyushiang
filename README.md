@@ -11,6 +11,7 @@
 
 ### Frontend
 
+- [Antenna Pattern Editor](https://tsengyushiang.github.io/antenna-pattern-editor/)
 - [Dynamic navigation mesh](https://tsengyushiang.github.io/navmesh-editor/)
 - [3D Coverage Visualization](https://tsengyushiang.github.io/coverage-visualizer/)
 - [Triangle localization Simulator](https://tsengyushiang.github.io/triangle-localization-simulator/)
