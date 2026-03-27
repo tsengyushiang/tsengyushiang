@@ -32,22 +32,7 @@
 
 > notes available at: https://tsengyushiang.github.io/notes/
 
-### Langues and Frameworks
-
-- JavaScript, TypeScript, `Next.js`, `React`, `Redux`, `Redux-Saga`, `jest`
-- CSS, `styled-components`
-- WebGL, GLSL, `three.js`
-- C/C++ `OpenCV`, `OpenGL`, `OpenMesh`, `CUDA`
-- Python `PyTorch`, `Flask-RESTx`, `celery`
-
-### Tools
-
-- Frontend `storybook`
-- API mocking `msw`
-- Game engine, `Unity3D`, `CocosCreator`
-- Version Control, `Git`
-- CI/CD, `Github workflow`, `GitLab pipeline`, `vercel`
-- Docker, `docker-compose`
-- Database, `Mongo`
-- Sonarqube
-- Nginx
+- **Languages**: JavaScript, TypeScript, CSS, HTML, GLSL, C++, Python
+- **Frontend Development**: Next.js, React, Redux, Jest, i18n, Styled-components, Storybook, MSW, Three.js
+- **Backend Development**: Node.js (Express), TypeORM, MongoDB, PostgreSQL, Elasticsearch, Redis, RabbitMQ
+- **Other Tools: Git**, CI/CD, K3s, Docker, Docker Compose, SonarQube, Nginx, Prometheus, Grafana
